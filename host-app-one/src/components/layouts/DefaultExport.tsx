@@ -1,0 +1,1 @@
+export { AuthLayout as default } from '@nretana/microfrontend-lib';

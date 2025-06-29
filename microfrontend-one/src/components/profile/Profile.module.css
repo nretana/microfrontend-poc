@@ -1,0 +1,12 @@
+
+.card-test {
+    width: 30%;
+    background-color: rgb(65, 175, 226) !important;
+    padding: 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    color: #333333;
+
+    &:hover {
+        background-color: yellow;
+    }
+}
